@@ -5,6 +5,9 @@ dist/game.pdb
 dist/SDL2.dll
 dist/game
 dist/game.exe
+dist/Noisy-Collectibles
+dist/Noisy-Collectibles.exe
 scenes/show-meshes*
 scenes/show-scene*
 *.blend[0-9]
+.vs/
